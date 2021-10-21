@@ -3,10 +3,10 @@
 	margin: 0;
 }
 body{
-  background-image: url('img/fondo.jpg');
-  background-size: 100%;
-  background-repeat: no-repeat;
-  -moz-background-size: 100%;
+	background-image: url('img/fondo.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	-moz-background-size: 100%;
 }
 main{
 	width: 80%;
@@ -24,7 +24,7 @@ input{
 	font-size: large;
 	width: 400px;
 	background: transparent;
-    border-top: none;
+    	border-top: none;
 	border-right: none;
 	border-left: none;
 	outline: none;
